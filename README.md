@@ -11,6 +11,16 @@ As the data science engineer find out which hierarcy cluster gives maximum linka
 ![image](https://github.com/Sai-89design/hierarchical-clustering/assets/125116859/223115f1-3a86-4251-acd5-15c95e2d407b)
 # Project Methodology
 ![image](https://github.com/Sai-89design/hierarchical-clustering/assets/125116859/9b5bd2e4-af51-40ea-b501-54ddc16f22a0)
+# Insights
+1)Cluster1 contains(Red) which sjow that unsupervised learning cluster has maximum euclimimh distance from the centroid upto annual income approximate 139ks
+
+2)Cluster2 contains(blue) which shows that unsupervised learning cluster has maximum euclding from centroid upto annual income approximatly 79-80ks.
+
+3)Cluster3 contains(green) which shows that unsupervised learning cluster has maximum eucliding distance from centroid upto annual income approximately 139ks.
+
+4)Cluster4 contains(cyan) which shows that unsupervised learning cluster has maximum eucliding distance from centroid upto annual income approximately 39-40ks.
+
+5)Cluster5 contains(pink) which shows that unsupervised learning cluster has maximum eucliding distance from centroid upto annual income approximately 40-41ks.
 
 # Conclusion
 According to the model building as a engineer my prediction is cluster number 3 as give highest number of linkage.
